@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "@vue/babel-plugin-jsx",
+    [
+      "components",
+      {
+        "libraryName": "element-plus",
+        "styleLibraryName": "theme-chalk"
+      }
+    ]
+  ]
+}
